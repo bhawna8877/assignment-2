@@ -1,6 +1,6 @@
-name = "Tanish Jindal"
-sid = 22105092
-department_name = "Electronics and communication"
+name = "Bhawna Sharma"
+sid = 22104086
+department_name = "Electrical"
 cgpa = 10.0
 print("Hey," , name , "Here!")
 print("My SID is", sid )
